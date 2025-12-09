@@ -1,6 +1,6 @@
 # Create-Tasks.ps1 (v3.5)
 param(
-    [string]$BasePath='C:\\Scripts\\AfterHours',
+    [string]$BasePath='C:\ProgramData\AfterHours',
     [string]$BlockTime='19:00',
     [string]$UnblockTime='07:00',
     [switch]$IncludeRdp
